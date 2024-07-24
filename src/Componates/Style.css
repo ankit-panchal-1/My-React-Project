@@ -1,0 +1,119 @@
+/* Font sizes */
+.font-small * {
+  font-size: 14px !important;
+}
+
+.font-medium * {
+  font-size: 17px !important;
+}
+
+.font-large * {
+  font-size: 20px !important;
+}
+
+/* Button styles */
+.btn-sky:hover {
+  background-color: rgb(10, 174, 174);
+  color: #000;
+}
+
+.btn-purple:hover {
+  color: rgba(0, 0, 0, 0.59);
+  background-color: rgb(218, 0, 218);
+}
+
+.btn-purple {
+  color: #fff;
+  background-color: purple;
+}
+
+/* Text colors */
+.text-purple {
+  color: purple;
+}
+
+/* Border colors */
+.border-purple {
+  border-color: purple !important;
+}
+
+.border-sky {
+  border-color: aqua !important;
+}
+
+.border-yellow {
+  border-color: yellow !important;
+}
+
+/* Button styles */
+.btn-yellow {
+  color: #000;
+  background-color: yellow;
+}
+
+.btn-yellow:hover {
+  color: #000;
+  background-color: rgb(205, 184, 50);
+}
+
+/* Text colors */
+.text-yellow {
+  color: yellow;
+}
+
+/* Button styles */
+.btn-sky {
+  background-color: aqua;
+  color: #000;
+}
+
+/* Text colors */
+.text-sky {
+  color: aqua;
+}
+
+/* Hover effects */
+.hover-sky:hover {
+  background-color: aqua;
+  color: #000;
+}
+
+.hover-sky:hover i {
+  color: #000;
+}
+
+.hover-purple:hover {
+  background-color: purple;
+  color: #fff;
+}
+
+.hover-purple:hover i {
+  color: #fff;
+}
+
+.hover-orange:hover {
+  background-color: orange;
+  color: #fff;
+}
+
+.hover-orange:hover i {
+  color: #fff;
+}
+
+.hover-success:hover {
+  background-color: green;
+  color: #fff;
+}
+
+.hover-success:hover i {
+  color: #fff;
+}
+
+.hover-yellow:hover {
+  background-color: yellow;
+  color: #000;
+}
+
+.hover-yellow:hover i {
+  color: #000;
+}
